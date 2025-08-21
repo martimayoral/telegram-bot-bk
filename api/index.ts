@@ -11,5 +11,5 @@ app.get("/hello", (_req: Request, res: Response) => {
   res.json({ message: "Hello route works!" });
 });
 
-// Export as Vercel serverless function
-export const handler = serverless(app);
+// ✅ Vercel requires a default export
+export default serverless(app);
