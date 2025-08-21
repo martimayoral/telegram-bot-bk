@@ -5,9 +5,9 @@
       "chain": "1",
       "symbol": "USDC",
       "apyReward": 0,
-      "tvlUsd": 16973.112268828405,
+      "tvlUsd": 16976.439651,
       "url": "https://yearn.fi/",
-      "timestamp": 1755800927993
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x888239ffa9a0613f9142c808aa9f7d1948a14f75",
@@ -25,7 +25,7 @@
       "apyReward": 0,
       "tvlUsd": 3810346.924535,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xeec7036c1af1f07668b4c5520ccb4b52ec4594d7",
@@ -34,7 +34,7 @@
       "apyReward": 0,
       "tvlUsd": 0,
       "url": "https://yearn.fi/",
-      "timestamp": 1755800927993
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x71955515adf20cbdc699b8bc556fc7fd726b31b0",
@@ -61,7 +61,7 @@
       "apyReward": 0,
       "tvlUsd": 28.048948,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x074134a2784f4f66b6ced6f68849382990ff3215",
@@ -70,7 +70,7 @@
       "apyReward": 0,
       "tvlUsd": 606700.958194,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xa08ceb657d9a8035a44a1b44b8d4c42ec31dd4d4",
@@ -79,7 +79,7 @@
       "apyReward": 0,
       "tvlUsd": 25.831081,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x6b5ce31af687a671a804d8070ddda99cab926dfe",
@@ -113,9 +113,9 @@
       "chain": "1",
       "symbol": "CDAI+CUSDC",
       "apyReward": 0,
-      "tvlUsd": 10143.227211000212,
+      "tvlUsd": 10133.741857868577,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x9f8b5c0fc18b79ddfc05b21c43da7e324cf3b8eb",
@@ -124,7 +124,7 @@
       "apyReward": 0,
       "tvlUsd": 0.28599036704237424,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x7158c1bee7a0fa5bd6affc77b2309991d7adcdd4",
@@ -133,7 +133,7 @@
       "apyReward": 0,
       "tvlUsd": 2379.080577,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xfb7c06ddd70c74ac2f68d0f947be3b4c503e3d6c",
@@ -142,7 +142,7 @@
       "apyReward": 0,
       "tvlUsd": 438684.422491,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xe5edce53e39cbc6d819e2c340bcf295e0084ff7c",
@@ -160,7 +160,7 @@
       "apyReward": 0,
       "tvlUsd": 34.075426181383506,
       "url": "https://yearn.fi/",
-      "timestamp": 1755800927993
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xcae0347e9fafc1e08880c79c8331f15c786083e0",
@@ -178,7 +178,7 @@
       "apyReward": 0,
       "tvlUsd": 953200.6758166997,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x4dd0fe8549641a04d7ab4f37dbb541ae7dbb2838",
@@ -187,7 +187,7 @@
       "apyReward": 0,
       "tvlUsd": 31.677051,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x6d2f347dcfc55c6ac80e515a58344acd7fef0b84",
@@ -223,7 +223,7 @@
       "apyReward": 0,
       "tvlUsd": 0,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x459f99d7c83bc3653b1913b62d2978b1deda01b5",
@@ -232,7 +232,7 @@
       "apyReward": 0,
       "tvlUsd": 1.128782,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xb6da41d4bdb484bdad0bfaa79bc8e182e5095f7e",
@@ -268,16 +268,16 @@
       "apyReward": 0,
       "tvlUsd": 0,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x801ab06154bf539dea4385a39f5fa8534fb53073",
       "chain": "1",
       "symbol": "CRVEURSUSDC",
       "apyReward": 0,
-      "tvlUsd": 9745.89326826163,
+      "tvlUsd": 9703.765796516236,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x902cf5373317bb3e42660e9f4e85aa21532c0e44",
@@ -304,7 +304,7 @@
       "apyReward": 0,
       "tvlUsd": 2000,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x0ff3773a6984ad900f7fb23a9acbf07ac3adfb06",
@@ -313,7 +313,7 @@
       "apyReward": 0,
       "tvlUsd": 0,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x5f18c75abdae578b483e5f43f12a39cf75b973a9",
@@ -322,7 +322,7 @@
       "apyReward": 0,
       "tvlUsd": 4814148.414441,
       "url": "https://yearn.fi/",
-      "timestamp": 1755803751222
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x6949145469362f9eeab3c96ea41b51d9b4cc2b21",
@@ -340,7 +340,7 @@
       "apyReward": 0,
       "tvlUsd": 1478.7836679412844,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xbfbc4acae2cec91a5bc80eca1c9290f92959f7c3",
@@ -376,7 +376,7 @@
       "apyReward": 0,
       "tvlUsd": 57.03441167105537,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0xe2277cc76f806925dc6c9a5e4e5933605f43c3c4",
@@ -392,9 +392,9 @@
       "chain": "1",
       "symbol": "LVLUSDUSDC",
       "apyReward": 0,
-      "tvlUsd": 608355.660121204,
+      "tvlUsd": 608344.2196342045,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x6f9a3ab8aea89892b4157643a6e75d8e6ff2291d",
@@ -412,7 +412,7 @@
       "apyReward": 0,
       "tvlUsd": 0,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
     },
     {
       "poolId": "0x7bdeb15b00437fc8b5dbbf8ba7b0fc6cb7f7e68c",
@@ -457,7 +457,43 @@
       "apyReward": 0,
       "tvlUsd": 860.838263,
       "url": "https://yearn.fi/",
-      "timestamp": 1755804384421
+      "timestamp": 1755810498046
+    },
+    {
+      "poolId": "0xf6e2d36c489e5b361cdc962d4568cea663ad5ddc",
+      "chain": "1",
+      "symbol": "USDC",
+      "apyReward": 0,
+      "tvlUsd": 198.478956,
+      "url": "https://yearn.fi/",
+      "timestamp": 1755810498046
+    },
+    {
+      "poolId": "0x0e297de4005883c757c9f09fdf7cf1363c20e626",
+      "chain": "1",
+      "symbol": "USDC",
+      "apyReward": 0,
+      "tvlUsd": 0,
+      "url": "https://yearn.fi/",
+      "timestamp": 1755810498046
+    },
+    {
+      "poolId": "0x7ca00559b978cfde81297849be6151d3ccb408a9",
+      "chain": "1",
+      "symbol": "CRVUSDUSDC-F",
+      "apyReward": 0,
+      "tvlUsd": 157042.13874284696,
+      "url": "https://yearn.fi/",
+      "timestamp": 1755810498046
+    },
+    {
+      "poolId": "0x1bb04fcbc210baa384531079ed7f59d9149309ba",
+      "chain": "1",
+      "symbol": "USDC-DAI-USDT",
+      "apyReward": 0,
+      "tvlUsd": 0,
+      "url": "https://yearn.fi/",
+      "timestamp": 1755810498046
     }
   ]
 }

@@ -4,25 +4,25 @@
       "poolId": "0x79a8C46DeA5aDa233ABaFFD40F3A0A2B1e5A4F27",
       "chain": "Ethereum",
       "symbol": "YDAI+YUSDC+YUSDT+YBUSD",
-      "tvlUsd": 34820.57684948351,
+      "tvlUsd": 34820.455398911356,
       "url": "https://curve.fi/",
-      "timestamp": 1755804384539
+      "timestamp": 1755810498737
     },
     {
       "poolId": "0xA2B47E3D5c44877cca798226B7B8118F9BFb7A56",
       "chain": "Ethereum",
       "symbol": "CDAI+CUSDC",
-      "tvlUsd": 587804.0416755119,
+      "tvlUsd": 588170.1808231402,
       "url": "https://curve.fi/",
-      "timestamp": 1755804384539
+      "timestamp": 1755810498737
     },
     {
       "poolId": "0x52EA46506B9CC5Ef470C5bf89f17Dc28bB35D85C",
       "chain": "Ethereum",
       "symbol": "CDAI+CUSDC+USDT",
-      "tvlUsd": 52808.537177975966,
+      "tvlUsd": 52825.82878770104,
       "url": "https://curve.fi/",
-      "timestamp": 1755804384539
+      "timestamp": 1755810498737
     },
     {
       "poolId": "0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51",
@@ -30,7 +30,7 @@
       "symbol": "YDAI+YUSDC+YUSDT+YTUSD",
       "tvlUsd": 0,
       "url": "https://curve.fi/",
-      "timestamp": 1755804384539
+      "timestamp": 1755810498737
     },
     {
       "poolId": "0x6A274dE3e2462c7614702474D64d376729831dCa",
